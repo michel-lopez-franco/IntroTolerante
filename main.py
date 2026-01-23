@@ -17,3 +17,9 @@ print(resta(10, 4))
 print("Operaciones completadas.")
 print("División:", div.div(10, 2))
 print("Programa finalizado.")
+
+
+print("menu:")
+print("1. Suma")
+print("2. Resta")
+print("3. División")
