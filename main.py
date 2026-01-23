@@ -16,3 +16,10 @@ print(resta(10, 4))
 print("Operaciones completadas.")
 print("División:", div.div(10, 2))
 print("Programa finalizado.")
+
+
+def potencia(base, exponente):
+    return base**exponente
+
+
+print("La potencia de 2 elevado a 3 es:", potencia(2, 3))
